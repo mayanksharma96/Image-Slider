@@ -1,2 +1,2 @@
 # online-music-store
-Language Used-- HTML,CSS,JAVASCRIPT
+Language Used-- HTML,CSS
